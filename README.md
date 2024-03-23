@@ -1,3 +1,23 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://media.licdn.com/dms/image/D4D16AQEdkEakgTCeTQ/profile-displaybackgroundimage-shrink_350_1400/0/1675032701281?e=1716422400&v=beta&t=NUPruDefoWREDQqcpaBv_TxWXbYXlFVizkgu0RD9QGk" width="800"/>
+</div>
+<div id="techs" align="center">
+  <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/html5.svg" width ="70"/>
+  <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/css3.svg" width ="70"/>
+  <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/Bootstrap.svg" width ="70"/>
+  <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/javascript-file.svg" width ="70"/>
+  <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/Angular.svg" width ="70"/>
+  <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/atom.svg" width ="70"/>
+  <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/SASS.svg" width ="70"/>
+  <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/TypeScript.svg" width ="70"/>
+  <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/openaigpt.svg" width ="70"/>
+  <img decoding="async" src="https://www.algoritmos.uy/assets/img/brand-python.svg" width ="70"/>
+</div>
+
+
+
+
+
 -  Hola, Soy Willans Junes de  @Algoritmos-uy
 -  Soy instructor en desarrollo front end y desarrollo moderno de software.
 -  Me gusta aprender  permanentemente, para luego poder compartir mis conocimientos con mis alumnos.
@@ -6,7 +26,21 @@
 - En el Correr de 2024 estrán publicados Mis cursos de desarrollo en UDEMY
 
 Presentaré un completo curso de desarrollo web moderno, donde apunto a formar profesionales completos y de alta calidad en el desarrollo Front end.
-En este curso completo Estará Incluido: Pensamiento computacional y Lógica de programación, desarrollo moderno de software, Algoritmos, Diseño UI UX, Introducción a Git y GitHub, HTML, CSS, JavaScript. Pre procesadores de css.
+En este curso completo Estará Incluido: 
+1. Pensamiento computacional
+2. Lógica de programación
+3. desarrollo moderno de software,
+4. Algoritmos,
+5. Diseño UI UX,
+6. Introduccion a Visual Studio Code
+7. Introducción a Git y GitHub,
+8. HTML, CSS, JavaScript.
+9. Introduccion a NODEJS
+10. Introduccion a Angular
+11. Introduccion a REACT
+12. Pre procesadores de css.
 Y al final del curso, Una completa formación Para prepararte como enfrentar y como desarrollarte en una entrevista con reclutadores de empresas.
 
 En esta Cuenta de GitHub, estaran almacenados todos los repositorios de los proyectos, que juntos desarrollaremos en el correr del curso.
+
+

@@ -34,7 +34,8 @@
 10. Introduccion a Angular
 11. Introduccion a REACT
 12. Pre procesadores de css.
-13. Y al final del curso, Una completa formación Para prepararte como enfrentar y como desarrollarte en una entrevista con reclutadores de empresas.
+13. Introducción a metodologia agil (Scrum)
+14. Y al final del curso, Una completa formación Para prepararte como enfrentar y como desarrollarte en una entrevista con reclutadores de empresas.
 
 <h2 align = "center">En esta Cuenta de GitHub, estaran almacenados todos los repositorios de los proyectos, que juntos desarrollaremos en el correr del curso.</h2>
 

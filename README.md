@@ -13,20 +13,15 @@
   <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/openaigpt.svg" width ="70"/>
   <img decoding="async" src="https://www.algoritmos.uy/assets/img/brand-python.svg" width ="70"/>
 </div>
-
-
-
-
-
--  Hola, Soy Willans Junes de  @Algoritmos-uy
--  Soy instructor en desarrollo front end y desarrollo moderno de software.
--  Me gusta aprender  permanentemente, para luego poder compartir mis conocimientos con mis alumnos.
-- 
-- Hablo español Y Portugues Fluido, practicamente nativo; ingles entiendo bien y hablo medianamente
-- En el Correr de 2024 estrán publicados Mis cursos de desarrollo en UDEMY
-
-Presentaré un completo curso de desarrollo web moderno, donde apunto a formar profesionales completos y de alta calidad en el desarrollo Front end.
-En este curso completo Estará Incluido: 
+<h1 align = "center"> Hola, Soy Willans Junes  @Algoritmos-uy</h1>
+<h2 align = "center">BIENVENIDOS A MI PERFIL!</h2> 
+-Soy instructor en desarrollo front end y desarrollo moderno de software.
+- Me gusta aprender  permanentemente, para luego poder compartir mis conocimientos con mis alumnos.
+- Hablo español Y Portugues Fluido, practicamente nativo; ingles entiendo bien y hablo medianamente (Esforzándome para mejorarlo)
+- En el Correr de 2024 estarán publicados Mis cursos de desarrollo en UDEMY
+<h3 align = "center">Presentaré un completo curso de desarrollo web moderno, donde apunto a formar profesionales completos y de alta calidad en el desarrollo Front end.</h3>
+<h3 >En este curso Estará Incluido: </h3>
+ 
 1. Pensamiento computacional
 2. Lógica de programación
 3. desarrollo moderno de software,
@@ -39,8 +34,9 @@ En este curso completo Estará Incluido:
 10. Introduccion a Angular
 11. Introduccion a REACT
 12. Pre procesadores de css.
-Y al final del curso, Una completa formación Para prepararte como enfrentar y como desarrollarte en una entrevista con reclutadores de empresas.
+13. Y al final del curso, Una completa formación Para prepararte como enfrentar y como desarrollarte en una entrevista con reclutadores de empresas.
 
-En esta Cuenta de GitHub, estaran almacenados todos los repositorios de los proyectos, que juntos desarrollaremos en el correr del curso.
+<h2 align = "center">En esta Cuenta de GitHub, estaran almacenados todos los repositorios de los proyectos, que juntos desarrollaremos en el correr del curso.</h2>
+
 
 

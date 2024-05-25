@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://media.licdn.com/dms/image/D4D16AQEdkEakgTCeTQ/profile-displaybackgroundimage-shrink_350_1400/0/1675032701281?e=1716422400&v=beta&t=NUPruDefoWREDQqcpaBv_TxWXbYXlFVizkgu0RD9QGk" width="800"/>
+  <img decoding="async" src="[https://media.licdn.com/dms/image/D4D16AQEdkEakgTCeTQ/profile-displaybackgroundimage-shrink_350_1400/0/1675032701281?e=1716422400&v=beta&t=NUPruDefoWREDQqcpaBv_TxWXbYXlFVizkgu0RD9QGk" width="800"](https://www.shutterstock.com/image-photo/panorama-shot-frontend-developer-team-600nw-2294268357.jpg)/>
 </div>
 <div id="techs" align="center">
   <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/html5.svg" width ="70"/>

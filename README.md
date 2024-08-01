@@ -33,7 +33,7 @@
 9. Introduccion a NODEJS
 10. Introduccion a Angular
 11. Introduccion a REACT
-12. Pre procesadores de css.
+12. Utilización De IA como copiloto de programación.
 13. Introducción a metodologia agil (Scrum)
 14. Y al final del curso, Una completa formación Para prepararte como enfrentar y como desarrollarte en una entrevista con reclutadores de empresas.
 

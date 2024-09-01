@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-  <img decoding="async" src="https://www.shutterstock.com/image-photo/panorama-shot-frontend-developer-team-600nw-2294268357.jpg"  width="900"/>
+  <img decoding="async" src="https://www.shutterstock.com/image-photo/panorama-shot-frontend-developer-team-600nw-2294268357.jpg"  width="900" heigth="350"/>
 </div>
 <div id="techs" align="center">
   <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/html5.svg" width ="70"/>

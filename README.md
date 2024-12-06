@@ -24,9 +24,9 @@
  
 1. Pensamiento computacional
 2. Lógica de programación
-3. desarrollo moderno de software,
+3. Desarrollo moderno de software,
 4. Algoritmos,
-5. Diseño UI UX,
+5. Introducción al Diseño UI UX,
 6. Introduccion a Visual Studio Code
 7. Introducción a Git y GitHub,
 8. HTML, CSS, JavaScript.

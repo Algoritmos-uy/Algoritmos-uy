@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://algoritmos.uy">
-    <img alt="Website" src="https://img.shields.io/website?url=https://algoritmos.uy">
+    <img alt="Website" src="https://img.shields.io/website?url=https://algoritmos.uy" heigth="15" target="blank">
   </a>
 </p>
 

@@ -42,7 +42,7 @@
 ## 📫 Contáctame
 
 <p align="center">
-  <a href= target="blank" "https://www.linkedin.com/in/willans-junes/" >
+  <a href= "https://www.linkedin.com/in/willans-junes/" target="blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn">
   </a>
   <a href="mailto:wjdev@algoritmos.uy">

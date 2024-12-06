@@ -48,8 +48,8 @@
   <a href="mailto:wjdev@algoritmos.uy">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://algoritmos.uy">
-    <img alt="Website" src="https://img.shields.io/website?url=https://algoritmos.uy" height="15" target="blank">
+  <a href="https://algoritmos.uy" target="blank">
+    <img alt="Website" src="https://img.shields.io/website?url=https://algoritmos.uy" height="30" >
   </a>
 </p>
 

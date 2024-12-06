@@ -50,7 +50,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Algoritmos-uy&label=Profile+views&color=0e75b6&style=flat" alt="Algoritmos-uy">
-</p>
 

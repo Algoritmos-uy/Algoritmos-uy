@@ -18,10 +18,11 @@
 </div>
 <h1 align = "center"> Hola, Soy Willans Junes  @Algoritmos-uy</h1>
 <h2 align = "center">BIENVENIDOS A MI PERFIL!</h2> 
--Soy instructor en desarrollo front end y desarrollo moderno de software.
+- Soy instructor en desarrollo front end y desarrollo moderno de software.
 - Me gusta aprender  permanentemente, para luego poder compartir mis conocimientos con mis alumnos.
 - Hablo español Y Portugues Fluido, practicamente nativo; ingles entiendo bien y hablo medianamente (Esforzándome para mejorarlo)
-- En el Correr de 2024 estarán publicados Mis cursos de desarrollo en plataforma a definir
+- Durante todo 2025 serán publicados Mis cursos de desarrollo Front End y desarrollo Moderno De software.
+- Luego del Lanzamiento, será agregado semanalmente nuevos temas y modulos hasta llegar a la completa formación altamente profesionalizante para los alumnos.
 <h3 align = "center">Presentaré un completo curso de desarrollo web moderno, donde apunto a formar profesionales completos y de alta calidad en el desarrollo Front end.</h3>
 <h3 >En este curso Estará Incluido: </h3>
  

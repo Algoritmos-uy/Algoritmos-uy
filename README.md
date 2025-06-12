@@ -14,7 +14,7 @@
   <img decoding="async" src="https://www.algoritmos.uy/assets/img/brand-python.svg" width ="70"/>
 </div>
 <div i="caratula" align="center">
-  <img decoding="assync" src="https://www.algoritmia.uy/assets/images/TECNOLOGIAS.png" whidth="900" heigth="450"/>
+ 
 </div>
 <h1 align = "center"> Hola, Soy Willans Junes  @Algoritmos-uy</h1>
 <h2 align = "center">BIENVENIDOS A MI PERFIL!</h2> 
